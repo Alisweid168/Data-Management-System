@@ -94,8 +94,8 @@ Ensure you have the following installed:
 
     ```
 - `DELETE /schemas/delete_table/` - Delete a table
--   - **Request Body:**
-    ```json
+- - **Request Body:**
+ ```json
       {
       "table_name": "customer",
       }
