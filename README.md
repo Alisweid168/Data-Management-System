@@ -39,7 +39,7 @@ Ensure you have the following installed:
 ### Setup Instructions
 1. **Clone the Repository:**
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/Alisweid168/Data-Management-System.git
    cd data-management-system
    ```
 2. **Create and Activate a Virtual Environment:**
